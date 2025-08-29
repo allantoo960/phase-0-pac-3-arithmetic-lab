@@ -132,8 +132,8 @@ The `add(a, b)` tells us the test is trying to pass two _arguments_ to our
 function, so let's get that set up:
 
 ```js
-function add(a, b) {
-  return "something";
+  function add(a, b) {
+    return "something";
 }
 ```
 
